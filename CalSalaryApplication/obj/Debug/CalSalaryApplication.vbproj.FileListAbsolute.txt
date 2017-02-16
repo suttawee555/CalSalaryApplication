@@ -1,0 +1,11 @@
+D:\VB\CalSalaryApplication\CalSalaryApplication\bin\Debug\CalSalaryApplication.exe.config
+D:\VB\CalSalaryApplication\CalSalaryApplication\bin\Debug\CalSalaryApplication.exe
+D:\VB\CalSalaryApplication\CalSalaryApplication\bin\Debug\CalSalaryApplication.pdb
+D:\VB\CalSalaryApplication\CalSalaryApplication\bin\Debug\CalSalaryApplication.xml
+D:\VB\CalSalaryApplication\CalSalaryApplication\obj\Debug\CalSalaryApplication.vbprojResolveAssemblyReference.cache
+D:\VB\CalSalaryApplication\CalSalaryApplication\obj\Debug\WindowsApplication1.Form1.resources
+D:\VB\CalSalaryApplication\CalSalaryApplication\obj\Debug\WindowsApplication1.Resources.resources
+D:\VB\CalSalaryApplication\CalSalaryApplication\obj\Debug\CalSalaryApplication.vbproj.GenerateResource.Cache
+D:\VB\CalSalaryApplication\CalSalaryApplication\obj\Debug\CalSalaryApplication.exe
+D:\VB\CalSalaryApplication\CalSalaryApplication\obj\Debug\CalSalaryApplication.xml
+D:\VB\CalSalaryApplication\CalSalaryApplication\obj\Debug\CalSalaryApplication.pdb
